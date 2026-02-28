@@ -6,6 +6,8 @@
    Default
    ========================================================================== */
 
+$sidebar-text-size: 12px;
+
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
@@ -46,12 +48,12 @@
   }
 
   h3, h4 {
-    font-size: 12px !important;
+    font-size: $sidebar-text-size;
   }
 
   p, li {
     font-family: $sans-serif;
-    font-size: 12px !important;
+    font-size: $sidebar-text-size;
     line-height: 1.5;
   }
 
@@ -192,12 +194,10 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: 12px !important;
 }
 
 .sidebar .author__desktop {
   display: none;
-  font-size: 12px !important;
   @media screen and (min-width: 1024px) {
     display: block;
   }
@@ -205,7 +205,6 @@
 
 .author__pronouns {
   margin: 0;
-  font-size: 12px !important;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -215,7 +214,6 @@
 
 .author__bio {
   margin: 0;
-  font-size: 12px !important;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -264,7 +262,7 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
-  font-size: 12px !important;
+  font-size: $sidebar-text-size;
 
   @include breakpoint($large) {
     display: block;
@@ -312,7 +310,7 @@
 
   li {
     white-space: nowrap;
-    font-size: inherit !important;
+    font-size: inherit;
   }
 
   a {
@@ -322,7 +320,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: inherit !important;
+    font-size: inherit;
     text-decoration: none;
 
     i {
