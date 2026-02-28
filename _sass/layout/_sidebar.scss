@@ -311,6 +311,7 @@
 
   li {
     white-space: nowrap;
+    font-size: $type-size-6 !important;
   }
 
   a {
@@ -320,7 +321,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-6;
+    font-size: $type-size-6 !important;
     text-decoration: none;
 
     i {
