@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tsung-Han Lu | Computer Architecture & Hardware Acceleration"
+title: "Tsung-Han Lu "
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a Ph.D. student in Computer Architecture at the University of California, San Diego (UCSD), advised by [Professor Tajana S. Rosing](https://www.ece.ucsd.edu/faculty/tajana-rosing). My research focuses on hardware acceleration for computational biology and machine learning systems, with particular emphasis on processing-in-memory architectures and emerging memory technologies.
-
-Expected graduation: **June 2028**
+I am a Ph.D. student in Computer Architecture at the University of California, San Diego (UCSD), advised by [Professor Tajana S. Rosing](https://seelab.ucsd.edu/). My research focuses on hardware acceleration for computational biology and machine learning systems, with particular emphasis on processing-in-memory architectures and emerging memory technologies.
 
 ## Research Interests
 
@@ -34,7 +32,7 @@ I bring a diverse and interdisciplinary background spanning mechanical engineeri
 - **M.S. in Power Mechanical Engineering** (National Tsing Hua University, 2019-2021, GPA: 3.9/4.0) - Specialized in microfluidics and bio-MEMS with a focus on biomedical device design
 - **B.S. in Health-Related Field** (Taipei Medical University, 2015-2019) - Foundation in medical sciences and healthcare informatics
 
-### Professional Experience
+### Work Experience
 Before pursuing my Ph.D., I worked as a Process Engineer at Taiwan Semiconductor Manufacturing Company (TSMC) from 2021-2024, where I contributed to advanced node process development (N3/N2), achieving significant improvements in yield enhancement and cost reduction.
 
 This unique trajectory—from healthcare through mechanical engineering and semiconductor process development to computer architecture—has deeply informed my research perspective. I understand both the biological and engineering challenges in building efficient systems for data-intensive applications, positioning me uniquely to bridge these domains.
@@ -44,11 +42,3 @@ This unique trajectory—from healthcare through mechanical engineering and semi
 I actively collaborate with:
 - [Professor Rob Knight's group at UCSD](https://knightlab.ucsd.edu/) - Bioinformatics and microbiome research
 - [Niema Moshiri](https://niema.net/) - Computational biology and phylogenetics
-- The UCSD Computer Architecture and Systems Lab (ARCSLAB) 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
