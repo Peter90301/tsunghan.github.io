@@ -23,7 +23,7 @@ repository               : "Peter90301/peter90301.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Tsung-Han Lu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Computer Architecture at UCSD | Hardware Acceleration & Bioinformatics"
