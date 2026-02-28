@@ -264,6 +264,7 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
+  font-size: 12px !important;
 
   @include breakpoint($large) {
     display: block;
@@ -311,7 +312,7 @@
 
   li {
     white-space: nowrap;
-    font-size: $type-size-6 !important;
+    font-size: inherit !important;
   }
 
   a {
@@ -321,7 +322,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-6 !important;
+    font-size: inherit !important;
     text-decoration: none;
 
     i {
